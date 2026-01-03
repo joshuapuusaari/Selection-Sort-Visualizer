@@ -47,6 +47,6 @@ Flowchart:
 - You can empty the list using the "Clear List" button if you would like to make a new list
 
 
-## Hugging Face Link: https://huggingface.co/spaces/JoshuaPuusaari/CISC121-Final-Project
+## Hugging Face Link: https://huggingface.co/spaces/JoshuaPuusaari/Selection-Sort-Visualizer
 
 ## Author & Acknowledgement: Joshua Puusaari
